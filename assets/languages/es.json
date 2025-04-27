@@ -1,0 +1,19 @@
+{
+  "favoriteMovies": "Peliculas favoritas",
+  "language": "Idioma",
+  "about": "Acerca de",
+  "feedback": "Realimentación",
+  "popular": "POPULAR",
+  "Now": "AHORA",
+  "Soon": "PRONTO",   
+ "okay": "vale",
+ "retry": "Reintentar",
+ "somethingWentWrong": "Algo salió mal.....",
+ "ChatchNetwork ": "Por favor, verifica tu conexión a la red y presiona el botón de reintentar o informa el error presionando en Comentarios",
+"aboutDescription": "Este producto utiliza la API de TMDb o está certificado por TMDb",
+"noMovies": "Lo sentimos, no hay películas en esta sección.",
+"cast": "Emitir",
+"watchTrailers": "Ver trailers"
+
+
+}

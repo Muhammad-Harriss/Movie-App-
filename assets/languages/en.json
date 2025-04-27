@@ -1,0 +1,19 @@
+
+
+{
+    "favoriteMovies" : "Favorite Movies",
+    "languages" : "Languages",
+    "feedback" : "Feedback",
+    "about" : "About",
+    "popular": "POPULAR",
+    "Now": "NOW",
+    "Soon" :"SOON",
+    "okay":"okay",
+    "retry": "Retry",
+    "somethingWentWrong": "Something went wrong.....",
+    "ChatchNetwork ": "Please check your network connection and press retry button or put in as a bug by pressing Feedback",
+    "aboutDescription": "This Product use TMDb API or Certified by TMDb",
+    "noMovies": "Sorry, No movies under this section",
+    "cast": "Cast",
+    "watchTrailers": "Watch Trailers"
+}
